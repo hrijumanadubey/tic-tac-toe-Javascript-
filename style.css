@@ -1,0 +1,123 @@
+#zero{
+    position: relative;
+    top: -400px;
+    left: 580px;
+}
+#one{
+    position: relative;
+    left: 730px;
+    bottom: 520px;
+}
+#two{
+    position: relative;
+    left:880px;
+    bottom:640px;
+}
+#three{
+    position: relative;
+    bottom: 640px;
+    left: 580px;
+}
+#four{
+    position: relative;
+    left:730px;
+    bottom:760px;
+}
+#five{
+    position: relative;
+    left:880px;
+    bottom:880px;
+}
+#six{
+    position: relative;
+    left:580px;
+    bottom: 880px;
+}
+#seven{
+    position: relative;
+    left:730px;
+    bottom:1000px;
+}
+#eight{
+    position: relative;
+    left:880px;
+    bottom:1120px;
+}
+div{
+    background-color: rgb(127, 221, 255);
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    border-color: rgb(3, 196, 196);
+    font-size:60px;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    line-height: 120px;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(24, 121, 56);
+    font-weight: bolder;
+}
+a{
+    text-align: center;
+}
+div:hover{
+    background-color: rgb(104, 138, 190);
+    box-shadow: 7px 5px 5px rgb(56, 55, 55);
+}
+.monica-widget{
+    background-color: rgb(44, 60, 183);
+}
+.monica-widget:hover{
+    background-color: rgb(44, 60, 183);
+    box-shadow:7px 5px 5px rgb(44, 60, 183);
+}
+.line1{
+    color: aliceblue;
+    position: relative;
+    bottom: 645px;
+    left: 30px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: -5px;
+    font-size: 30px;
+}
+.line2{
+    color: aliceblue;
+    position: relative;
+    bottom: 885px;
+    left: 30px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: -5px;
+    font-size: 30px;
+}
+.vert-line1{
+    background-color: aliceblue;
+    height: 500px;
+    width:3px;
+    position:relative;
+    left: 713px;
+    bottom: -65px;
+}
+.vert-line2{
+    background-color: aliceblue;
+    height: 500px;
+    width:3px;
+    position:relative;
+    left: 863px;
+    bottom: 1585px;
+}
+.vert-line1:hover{
+    background-color: aliceblue;
+    box-shadow:none;
+}
+.vert-line2:hover{
+    background-color: aliceblue;
+    box-shadow:none;
+}
+
